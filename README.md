@@ -4,7 +4,7 @@ I'm Senres, welcome to my GitHub profile!
 ### Where to Find me? 
 * website: https://senres.top
 * mail: boss@senres.top
-* discord: Senres#5428
+* discord: senres
 
 ### Experience
 <p>
