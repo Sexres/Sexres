@@ -31,3 +31,7 @@ I'm Senres, welcome to my GitHub profile!
   <a href="https://ubuntu.com/">
     <img src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/256/Folders-OS-Ubuntu-alt-Metro-icon.png" width="40" height="40">
   </a>
+    
+  <a href="[https://ubuntu.com/](https://www.python.org/)">
+    <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-python-icon.png" width="40" height="40">
+  </a>
